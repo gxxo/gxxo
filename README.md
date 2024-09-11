@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hiiii
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome)](https://git.io/typing-svg)
 <!--
 **gxxo/gxxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
